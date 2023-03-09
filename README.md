@@ -1,1 +1,1 @@
-# wp_bernadette
+# euriade_wp
